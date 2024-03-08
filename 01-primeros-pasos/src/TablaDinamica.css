@@ -1,0 +1,21 @@
+.tabla-dinamica {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabla-dinamica td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.tabla-dinamica th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: green !important;
+}
+
+.tabla-dinamica th {
+    background-color: rgb(57, 107, 245);
+}
